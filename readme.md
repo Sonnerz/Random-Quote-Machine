@@ -10,4 +10,4 @@ When the new quote button is clicked, the quote machine fetches a new quote and 
 The user can tweet the current quote by clicking on the tweet button.
 
 
-https://codepen.io/sonnerz/full/VNpMeJ
+https://sonnerz.github.io/Random-Quote-Machine
